@@ -6,15 +6,17 @@ Create config.json at directory then just drag-drop your PE file into IATRedirec
 
 # Config format
 It's just JSON format. Here is an example !
-```
+```json
 {
 	"GetModuleHandleA": "OwnGetModuleHandleImport",
 	"ExitProcess": "Sleep",
-  "AImport", "BImport"
+        "AImport": "BImport"
 }
 ```
 
 # Dependencies
-https://github.com/JamesNK/Newtonsoft.Json
-https://github.com/secana/PeNet
-https://github.com/Fody/Costura
+https://github.com/JamesNK/Newtonsoft.Json/
+
+https://github.com/secana/PeNet/
+
+https://github.com/Fody/Costura/
