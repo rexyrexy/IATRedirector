@@ -1,5 +1,5 @@
 # IATRedirector
-Redirect all intermodular calls to your function in PE File
+Redirect all intermodular calls to your import in PE File
 
 # How to use it
 Create config.json at directory then just drag-drop your PE file into IATRedirector. It will patch and save the output as (filename)_patched.(extension).
