@@ -15,6 +15,6 @@ It's just JSON format. Here is an example !
 ```
 
 # Dependencies
-JamesNK/Newtonsoft.Json
-secana/PeNet
-Fody/Costura
+https://github.com/JamesNK/Newtonsoft.Json
+https://github.com/secana/PeNet
+https://github.com/Fody/Costura
